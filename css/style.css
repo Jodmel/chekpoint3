@@ -1,0 +1,36 @@
+body {
+  background-image: url(../assets/background\ image.jpg);
+}
+
+.profile {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    
+}
+
+table {
+  margin-top:50px;
+}
+
+table, th, td {
+  border:1px solid white;
+  color :  white;
+  padding :10px;
+}
+
+
+
+div{
+  font-size:25px;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+.para{
+  color: aliceblue;
+}
+
